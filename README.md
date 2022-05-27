@@ -1,6 +1,5 @@
 # Hey there! ![47tj](https://github.com/ninth-in/ninth-in/blob/main/47tj.gif)
 ### Working on a dance game - Stand-By - 
-![BPml](https://github.com/ninth-in/ninth-in/blob/main/BPml.gif)
 
 <!--
 **ninth-in/ninth-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
