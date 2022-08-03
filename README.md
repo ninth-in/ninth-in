@@ -1,6 +1,15 @@
 # Hey there! ![47tj](https://github.com/ninth-in/ninth-in/blob/main/47tj.gif)
 ### Working on a dance game - Stand-By - 
 
+<h3>Skills</h3>
+<p> 
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+
 <!--
 **ninth-in/ninth-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
