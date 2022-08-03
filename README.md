@@ -29,7 +29,7 @@
   <img alt="Unity" src="https://img.shields.io/badge/-unity-%23000000.svg?style=flat&logo=unity&logoColor=white" />
 </p>
 
-[![Ninth's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninth-in)](https://github.com/anuraghazra/github-readme-stats)
+[![Ninth's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninth-in&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ninth-in/ninth-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
