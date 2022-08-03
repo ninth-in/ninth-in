@@ -14,10 +14,10 @@
   <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" />
   <img alt="Neo4j" src="https://img.shields.io/badge/-Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white" />
   <img alt="Cassandra" src="https://img.shields.io/badge/-cassandra-%231287B1.svg?style=flat&logo=apache-cassandra&logoColor=white" />
+  <img alt="Phyton" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flate&logo=c%2B%2B&logoColor=white" />
-  <img alt="Phyton" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-mysql-285385.svg?style=flat&logo=mysql&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" />
   <img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black" />
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white" />
