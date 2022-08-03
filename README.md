@@ -19,11 +19,13 @@
   <img alt="Blender" src="https://img.shields.io/badge/-blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white" />
   <img alt="Unity" src="https://img.shields.io/badge/-unity-%23000000.svg?style=flat&logo=unity&logoColor=white" />
   <img alt="Inkscape" src="https://img.shields.io/badge/-Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13" />
-  <img alt="Clip Studio" src="https://img.shields.io/badge/-Clip_Studio-grey?style=flat&logo=clipstudio-actions&logoColor=white" />
+  <img alt="Clip Studio Paint" src="https://img.shields.io/badge/-Clip_Studio_Paint-grey?style=flat&logo=clipstudio-actions&logoColor=white" />
   <img alt="Pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?style=flat&logo=PyCharm&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white" />
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" />
   <img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black" />
+  <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flatlogo=figma&logoColor=white" />
   
 </p>
 
