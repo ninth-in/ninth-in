@@ -1,7 +1,6 @@
 # Hey there! ![47tj](https://github.com/ninth-in/ninth-in/blob/main/47tj.gif)
 ### Working on a dance game - Stand-By - 
 
-### Spotify Playing
 [![Spotify](https://spotify-six-tan.vercel.app/api/spotify)](https://open.spotify.com/user/222jiz3ml7g3bfqyt2u3ueh2a)
 
 <h3>Skills</h3>
@@ -28,9 +27,9 @@
   <img alt="Clip Studio Paint" src="https://img.shields.io/badge/-Clip_Studio_Paint-grey?style=flat&logo=clipstudio-actions&logoColor=white" />
   <img alt="Pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?style=flat&logo=PyCharm&logoColor=white" />
   <img alt="Unity" src="https://img.shields.io/badge/-unity-%23000000.svg?style=flat&logo=unity&logoColor=white" />
-  
-  
 </p>
+
+[![Ninth's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninth-in)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ninth-in/ninth-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
