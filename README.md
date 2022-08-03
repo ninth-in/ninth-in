@@ -1,7 +1,8 @@
 # Hey there! ![47tj](https://github.com/ninth-in/ninth-in/blob/main/47tj.gif)
 ### Working on a dance game - Stand-By - 
 
-[![Spotify](https://novatorem-ninth-in.vercel.app/api/spotify)](https://open.spotify.com/user/222jiz3ml7g3bfqyt2u3ueh2a)
+### Spotify Playing
+[![Spotify](https://spotify-six-tan.vercel.app/api/spotify)](https://open.spotify.com/user/222jiz3ml7g3bfqyt2u3ueh2a)
 
 <h3>Skills</h3>
 <p> 
